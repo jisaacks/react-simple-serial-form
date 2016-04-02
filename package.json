@@ -25,5 +25,13 @@
   },
   "dependencies": {
     "form-serialize": "^0.7.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisaacks/react-simple-serial-form.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jisaacks/react-simple-serial-form/issues"
+  },
+  "homepage": "https://github.com/jisaacks/react-simple-serial-form#readme"
 }
